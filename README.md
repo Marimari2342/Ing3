@@ -7,8 +7,8 @@
 >[!NOTE]
 >Año de cursada: 2026.
 >
->* Prácticas y Resoluciones ➡️[<code>**AQUÍ**</code>]().
->* Resúmenes ➡️[<code>**AQUÍ**</code>]().
+>* Prácticas y Resoluciones ➡️[<code>**AQUÍ**</code>](https://github.com/Marimari2342/Ing3/tree/main/practicas).
+>* Resúmenes ➡️[<code>**AQUÍ**</code>](https://github.com/Marimari2342/Ing3/tree/main/resumenes).
 >* Parciales de otros años y resoluciones ➡️[<code>**AQUÍ**</code>]().
 >
 <br>
