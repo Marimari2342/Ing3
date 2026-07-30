@@ -9,7 +9,7 @@
 >
 >* Prácticas y Resoluciones ➡️[<code>**AQUÍ**</code>](https://github.com/Marimari2342/Ing3/tree/main/practicas).
 >* Resúmenes ➡️[<code>**AQUÍ**</code>](https://github.com/Marimari2342/Ing3/tree/main/resumenes).
->* Parciales de otros años y resoluciones ➡️[<code>**AQUÍ**</code>]().
+>* Resolución de parciales viejos ➡️[<code>**AQUÍ**</code>](https://github.com/Marimari2342/Ing3/blob/main/parciales/preguntas_parciales_respondidas.pdf).
 >
 <br>
 <br>
